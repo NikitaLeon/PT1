@@ -1,1 +1,5 @@
 [![Java CI with Gradle](https://github.com/NikitaLeon/PT1/actions/workflows/gradle.yml/badge.svg)](https://github.com/NikitaLeon/PT1/actions/workflows/gradle.yml)
+![2024-06-20_15-44-54](https://github.com/NikitaLeon/PT1/assets/159457430/36263bf7-88b7-4a2f-bf17-b0aa197b5feb)
+![2024-06-20_15-45-27](https://github.com/NikitaLeon/PT1/assets/159457430/2c861501-b1e6-4a63-a6f6-217d770e3818)
+![2024-06-20_15-45-59](https://github.com/NikitaLeon/PT1/assets/159457430/a160a43a-3753-4663-8561-7931cbee841b)
+![2024-06-20_15-46-11](https://github.com/NikitaLeon/PT1/assets/159457430/5057c9c0-f19e-45f8-9784-8ad2071ca041)
